@@ -6,4 +6,4 @@ weight: 4
 layout: service
 ---
 
-W zakresie Data Center wykorzystujemy tylko te spełniające poziom TIER III.
+W zakresie Data Center wykorzystujemy tylko te spełniające standardy branżowe.
