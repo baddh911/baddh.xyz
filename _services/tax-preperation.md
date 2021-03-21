@@ -6,4 +6,4 @@ weight: 6
 layout: service
 ---
 
-Nasza odporna infrastruktura i całodobowa obsługa klienta zapewniają wysoką niezawodność. Dla Ciebie. Wszędzie, gdzie tego potrzebujesz.
+Zapewniamy wysoką niezawodność i wydajność. Dla Ciebie. Wszędzie, gdzie tego potrzebujesz.
