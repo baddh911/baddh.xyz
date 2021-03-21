@@ -1,7 +1,7 @@
 baseurl: ''
 url: "https://baddh911.github.io/"
 permalink: pretty
-title: 'nslab-io'
+title: 'Escale | Zarządzanie złożoną infrastrukturą nie powinno być trudne, dlatego jesteśmy My.'
 
 google_analytics_id: ""
 
@@ -14,7 +14,7 @@ logo:
   desktop_height: "36px"
 
 footer:
-  copyright_text: '<a class="zerostatic" href="https://nslab.io">nslab.io</a>'
+  copyright_text: '<a class="escale" href="https://escale.pl">escale.pl</a>'
 
 seo:
   meta_og_title: "Jekyll Serif Theme"
