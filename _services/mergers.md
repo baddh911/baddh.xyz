@@ -6,4 +6,4 @@ weight: 4
 layout: service
 ---
 
-W zakresie Data Center wykorzystujemy tylko te spełniające poziom TIER III (poziom niezawodności: 99.982%), któremu podlegają praktycznie wszystkie ważne systemy centrum danych.
+W zakresie Data Center wykorzystujemy tylko te spełniające poziom TIER III, któremu podlegają praktycznie wszystkie ważne systemy centrum danych.
