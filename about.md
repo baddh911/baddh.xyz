@@ -8,8 +8,10 @@ bodyClass: page-about
 
 Powstaliśmy w odpowiedzi na potrzeby naszych partnerów.
 
-Łatwo i niezawodnie hostuj witrynę internetową dla swojej firmy, organizacji lub projektu, zachowując jednocześnie pełną kontrolę nad podstawową infrastrukturą witryny.
+Wykorzystaj przyspieszenie i łatwe skalowanie rozwiązania infrastrukturalnego o małych opóźnieniach, bez względu na to, gdzie Ty lub Twoi klienci jesteście!
 
-<img alt={{ page.title }} class="intro-image{% if page.intro_image_absolute %} intro-image-absolute{% endif %}{% if page.intro_image_hide_on_mobile %} intro-image-hide-mobile{% endif %}" src="images/illustrations/speed.png" />
+<p align="center">
+  <img src="/images/illustrations/speed.png">
+</p>
 
-umożliwiając przyspieszenie i łatwe skalowanie rozwiązania infrastrukturalnego o małych opóźnieniach, bez względu na to, gdzie Ty lub Twoi klienci jesteście!
+Dzięki Nam zaczniesz łatwo i niezawodnie hostowań witrynę internetową dla swojej firmy, organizacji lub projektu, zachowując jednocześnie pełną kontrolę nad podstawową infrastrukturą witryny.
