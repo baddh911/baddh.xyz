@@ -6,4 +6,4 @@ weight: 3
 layout: service
 ---
 
-Spędzaj mniej czasu na zarządzaniu infrastrukturą dzięki naszemu wsparciu.
+Oszczędź czas na zarządzaniu infrastrukturą dzięki naszemu wsparciu.

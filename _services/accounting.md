@@ -6,4 +6,4 @@ weight: 1
 layout: service
 ---
 
-Twórz, zabezpieczaj i dostarczaj wydajniejsze strony internetowe.
+Twórz, zabezpieczaj i dostarczaj wydajniejsze aplikacje internetowe.
