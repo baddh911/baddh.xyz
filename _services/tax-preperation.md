@@ -6,4 +6,4 @@ weight: 6
 layout: service
 ---
 
-Wszędzie, gdzie tego potrzebujesz.
+Dla Ciebie. Wszędzie, gdzie tego potrzebujesz.

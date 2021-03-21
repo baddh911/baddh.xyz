@@ -6,4 +6,4 @@ weight: 3
 layout: service
 ---
 
-Robimy to dublując urządzenia z najniższym przeciętnym uptime. Właściwie, to robimy to dublując wszystko co się da.
+Robimy to dublując wszystko co się da.

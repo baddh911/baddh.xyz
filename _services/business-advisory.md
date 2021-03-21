@@ -6,4 +6,4 @@ weight: 2
 layout: service
 ---
 
-Platforma stworzona dla wszystkich twoich klientów.
+Platforma stworzona dla Ciebie i wszystkich Twoich klientów.
