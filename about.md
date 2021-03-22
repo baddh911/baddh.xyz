@@ -12,6 +12,8 @@ Wykorzystaj przyspieszenie i łatwe skalowanie rozwiązania infrastrukturalnego 
 
 <p align="center">
   <img src="/images/illustrations/quality.png">
+  <img src="/images/illustrations/quality.png">
+  <img src="/images/illustrations/quality.png">
 </p>
 
 ## Działamy w obszarze nowych technologii
