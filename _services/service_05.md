@@ -6,4 +6,4 @@ weight: 5
 layout: service
 ---
 
-Robimy to dublując wszystko co się da.
+Zapewniamy wysoką dostępność Twojej aplikacji. Robimy to dublując wszystko co się da.
