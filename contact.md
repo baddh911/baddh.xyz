@@ -8,4 +8,4 @@ bodyClass: page-contact
 
 Dołącz do firm, które opracowują, zarządzają i skalują swoje aplikacje dzięki wysokowydajnym rozwiązaniom obliczeniowym, pamięci masowej i sieci o dużej przepustowości.
 
-Opowiedz nam trochę o sobie, a połączymy Cię z ekspertem **Escale ®**, który z przyjemnością przygotuje spersonalizowaną ofertę i odpowie na wszelkie pytania.
+Opowiedz nam trochę o sobie, a połączymy Cię z ekspertem **Escale ®**, który z przyjemnością odpowie na wszelkie pytania i przygotuje spersonalizowaną ofertę do Twoich wymagań.
