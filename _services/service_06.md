@@ -6,4 +6,4 @@ weight: 6
 layout: service
 ---
 
-W zakresie Data Center wykorzystujemy tylko te spełniające standardy branżowe.
+W zakresie Data Center wykorzystujemy tylko te, które spełniają aktualne standardy branżowe.
