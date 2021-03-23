@@ -6,6 +6,6 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Zbudujmy coś wspólnie.
+# Budujmy wspólnie.
 
 Pomożemy Ci zarabiać na Twoim biznesie. Ułatwiamy uruchamianie i utrzymanie infrastruktury oraz jej skalowanie w miarę Twojego rozwoju. My dostarczamy i administrujemy, a Ty skupiasz się na tym co ważne dla Twojej firmy.
