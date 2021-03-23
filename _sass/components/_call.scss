@@ -40,9 +40,12 @@
     font-size: 18px;
     font-weight: normal;
     text-transform: none;
-    letter-spacing: 0.025em;
   }
   .call-email {
+    margin-bottom: 5px;
+    font-size: 18px;
+    font-weight: normal;
+    text-transform: none;
     a {
       color: $black;
     }
