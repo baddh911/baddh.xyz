@@ -22,11 +22,12 @@ bodyClass: page-services-list
 <div class="strip">
   <div class="container pt-6 pb-6 pt-md-10 pb-md-10">
     <div class="row justify-content-center">
+      <h2>Dlaczego klienci wybierają Escale ®</h2>
       {% for benefit in site.data.benefits %}
       <div class="col-12 col-md-6 col-lg-4 mb-2">
-        <div class="feature">
-          <h2 class="feature-title">{{ benefit.title }}</h2>
-          <div class="feature-content">{{ benefit.description }}</div>
+        <div class="benefit">
+          <h2 class="benefit-title">{{ benefit.title }}</h2>
+          <div class="benefit-content">{{ benefit.description }}</div>
         </div>
       </div>
       {% endfor %}
