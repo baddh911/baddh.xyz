@@ -21,5 +21,5 @@ Zapewniamy **pełne wsparcie dla Twoich projektów**. Stosujemy tylko sprawdzone
 Dzięki Nam zaczniesz łatwo i niezawodnie hostować witrynę internetową dla swojej firmy, organizacji lub projektu, zachowując jednocześnie pełną kontrolę nad podstawową infrastrukturą aplikacji.
 
 <p align="center">
-  <img src="/images/illustrations/speed.png">
+  <img src="/images/illustrations/new-tech.png">
 </p>
