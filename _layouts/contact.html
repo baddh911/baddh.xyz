@@ -13,7 +13,9 @@ bodyClass: page-contact
                 <br>
                 <form id="fs-frm" name="department-contact-form" accept-charset="utf-8" action="https://formspree.io/f/mbjqrovr" method="post">
                   <fieldset id="fs-frm-inputs">
-                    <label for="full-name">Skąd przybywasz?</label>
+                    <label for="full-name">Imię i nazwisko</label>
+                    <input type="text" name="name" id="full-name" placeholder="Imię i nazwisko" required="">
+                    <label for="full-name">Nazwa firmy</label>
                     <input type="text" name="name" id="full-name" placeholder="Nazwa Twojej firmy" required="">
                     <label for="email-address">Adres kontaktowy</label>
                     <input type="email" name="_replyto" id="email-address" placeholder="email@domain.tld" required="">
@@ -28,7 +30,7 @@ bodyClass: page-contact
                     <textarea rows="5" name="message" id="message" placeholder="Napisz o co chodzi. Pomożemy tak szybko jak to możliwe." required=""></textarea>
                     <input type="hidden" name="_subject" id="email-subject" value="Department Contact Form Submission">
                   </fieldset>
-                  <input type="submit" value="Wyślij!">
+                  <input type="submit" value="Wysyłam">
                 </form>
             </div>
         </div>
