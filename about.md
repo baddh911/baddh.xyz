@@ -16,7 +16,7 @@ Posiadamy dla Ciebie najnowocześniejszą infrastrukturę, która daje Ci przewa
   <img class="about" src="/images/illustrations/quality.png">
 </p>
 
-## Działamy w obszarze nowych technologii
+## Co zyskasz na współpracy?
 
 Zapewniamy **pełne wsparcie dla Twoich projektów**. Stosujemy tylko sprawdzone i w pełni przetestowane rozwiązania.
 
