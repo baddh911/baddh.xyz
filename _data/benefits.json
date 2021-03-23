@@ -1,7 +1,7 @@
 [
   {
-    "title": "Nagradzane wsparcie",
-    "description": "Zapewniamy pełne wsparcie dla Twojego biznesu.",
+    "title": "Wydajna infrastruktura",
+    "description": "Zapewniamy niskie opóźnienia, bezpieczeństwo i niezawodność.",
     "image": "images/benefits/sign.png"
   },
   {
@@ -10,8 +10,8 @@
     "image": "images/benefits/sign.png"
   },
   {
-    "title": "Wydajna infrastruktura",
-    "description": "Zapewniamy niskie opóźnienia, bezpieczeństwo i niezawodność.",
+    "title": "Nagradzane wsparcie",
+    "description": "Zapewniamy pełne wsparcie dla Twojego biznesu.",
     "image": "images/benefits/sign.png"
   }
 ]
