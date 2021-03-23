@@ -6,4 +6,4 @@ weight: 2
 layout: service
 ---
 
-Zapewniamy wysoką niezawodność i wydajność wszędzie, gdzie tego potrzebujesz.
+Zapewniamy wysoką niezawodność i wydajność wszędzie tam, gdzie tego potrzebujesz.
