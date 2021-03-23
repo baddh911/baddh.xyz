@@ -1,14 +1,17 @@
 [
   {
     "title": "Nagradzane wsparcie",
-    "description": "Zapewniamy pełne wsparcie dla Twojego biznesu."
+    "description": "Zapewniamy pełne wsparcie dla Twojego biznesu.",
+    "image": "images/benefits/sign.png"
   },
   {
     "title": "Rabaty i stałe ceny",
-    "description": "Wiesz, ile będziesz płacić co miesiąc dzięki stałym i przejrzystym cenom."
+    "description": "Wiesz, ile będziesz płacić co miesiąc dzięki stałym i przejrzystym cenom.",
+    "image": "images/benefits/sign.png"
   },
   {
     "title": "Wydajna infrastruktura",
-    "description": "Zapewniamy niskie opóźnienia, bezpieczeństwo i niezawodność."
+    "description": "Zapewniamy niskie opóźnienia, bezpieczeństwo i niezawodność.",
+    "image": "images/benefits/sign.png"
   }
 ]
