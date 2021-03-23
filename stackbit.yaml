@@ -90,13 +90,6 @@ models:
                 name: output
               - type: string
                 name: permalink
-          - type: object
-            name: benefits
-            fields:
-              - type: boolean
-                name: output
-              - type: string
-                name: permalink
       - type: object
         name: sass
         label: Sass
