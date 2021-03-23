@@ -10,4 +10,4 @@ Dołącz do firm, które opracowują, zarządzają i skalują swoje aplikacje dz
 
 Opowiedz nam trochę o sobie, a połączymy Cię z ekspertem **Escale ®**, który z przyjemnością odpowie na wszelkie pytania i przygotuje spersonalizowaną ofertę do Twoich wymagań.
 
-Będziemy potrzebowali od Ciebie kilku istotnych informacji. Wypełnij poniższy formularz:
+Będziemy potrzebowali od Ciebie kilku informacji. Opowiedz nam trochę o sobie, wypełniając poniższy formularz:
