@@ -1,5 +1,5 @@
 ---
-title: "Escale ® | Administration made easy"
+title: "Escale | Administration made easy"
 layout: home
 intro_image: "images/illustrations/datacenter.png"
 intro_image_absolute: true
