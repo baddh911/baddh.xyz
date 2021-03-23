@@ -22,7 +22,7 @@
     position: absolute;
     margin-top: 0;
     margin-bottom: 0;
-    margin-left: 60px;
+    margin-left: 55px;
     @include media-breakpoint-up(sm) {
       /* margin: 0; */
     }
@@ -71,7 +71,7 @@
 img.pl {
   z-index: 1;
   opacity: 1;
-  width: 6%;
+  width: 5.8%;
   display: flex;
   align-items: center;
   margin-left: .5rem;
