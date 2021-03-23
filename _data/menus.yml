@@ -1,13 +1,13 @@
 main:
   - name: "Usługi"
     url: "/services/"
-    weight: 2
+    weight: 1
   - name: "O Nas"
     url: "/about/"
-    weight: 3
+    weight: 2
   - name: "Kontakt"
     url: "/contact/"
-    weight: 4
+    weight: 3
 
 footer:
   - name: "Home"
