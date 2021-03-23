@@ -19,7 +19,10 @@
       font-size: 48px;
     }
     @include media-breakpoint-up(lg) {
-      font-size: 65px;
+      font-size: 75px;
+      font-weight: 900;
+      letter-spacing: -0.6px;
+      line-height: 80px;
     }
   }
   h2 {
