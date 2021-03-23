@@ -65,12 +65,10 @@ bodyClass: page-home
 </div>
 {% endif %}
 
-<div class="intro">
-  <div class="container">
-    <div class="row justify-content-start">
-        {% if site.homepage.show_call_box %}
-          {% include call.html show_button=true %}
-        {% endif %}
-    </div>
+<div class="container">
+  <div class="row justify-content-start">
+    {% if site.homepage.show_call_box %}
+      {% include call.html show_button=true %}
+    {% endif %}
   </div>
 </div>
