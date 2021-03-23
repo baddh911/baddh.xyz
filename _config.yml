@@ -29,7 +29,7 @@ seo:
 collections:
   services:
     output: true
-  team:
+  benefits:
     output: true
 
 sass:

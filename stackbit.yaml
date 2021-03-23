@@ -11,7 +11,6 @@ pageLayoutKey: null
 logicFields:
   - site_menu_item.weight
   - service.weight
-  - team.weight
 models:
   config:
     type: config
@@ -92,7 +91,7 @@ models:
               - type: string
                 name: permalink
           - type: object
-            name: team
+            name: benefits
             fields:
               - type: boolean
                 name: output
@@ -297,73 +296,3 @@ models:
         options:
           - label: services
             value: services
-  team:
-    type: page
-    label: Team
-    folder: _team
-    fields:
-      - type: string
-        name: title
-        label: Title
-      - type: date
-        name: date
-        label: Date
-      - type: image
-        name: image
-        label: Image
-      - type: string
-        name: jobtitle
-        label: Job Title
-      - type: string
-        name: linkedinurl
-        label: Linkedin URL
-      - type: string
-        name: Twitterhandle
-        label: Twitter handle
-      - type: boolean
-        name: draft
-        label: Draft
-      - type: boolean
-        name: featured
-        label: Featured
-      - type: number
-        name: weight
-        label: Weight
-      - type: boolean
-        name: promoted
-        label: Promoted
-      - type: enum
-        name: layout
-        options:
-          - label: team
-            value: team
-  teams:
-    type: page
-    label: Team Overview
-    file: team.md
-    singleInstance: true
-    fields:
-      - type: string
-        name: title
-        label: Title
-        description: The title of the page.
-        required: true
-      - type: image
-        name: intro_image
-        label: Intro Image
-        description: Image displayed at in the pages intro section
-      - type: boolean
-        name: intro_image_absolute
-        label: Intro Image Position
-        description: Should the image overflow or be contained
-      - type: boolean
-        name: intro_image_hide_on_mobile
-        label: Intro Image Hide On Mobile
-        description: Hide the intro image on mobile screen sizes
-      - type: string
-        name: permalink
-      - type: enum
-        name: layout
-        options:
-          - label: teams
-            value: teams
