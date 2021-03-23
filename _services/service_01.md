@@ -6,4 +6,4 @@ weight: 1
 layout: service
 ---
 
-Skup się na rozwoju i oszczędź czas na zarządzaniu infrastrukturą dzięki naszemu wsparciu.
+Skup się na rozwoju i oszczędź czas na zarządzaniu środowiskiem dzięki naszemu wsparciu.
