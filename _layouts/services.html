@@ -26,10 +26,10 @@ bodyClass: page-services-list
       {% for benefit in site.data.benefits %}
       <div class="col-12 col-md-6 col-lg-4 mb-2">
         <div class="benefit">
-          <h2 class="benefit-title">{{ benefit.title }}</h2>
           {% if benefit.image %}
             <center><div class="benefit-image"><img alt="{{ benefit.title }} logo" src="{{ benefit.image | relative_url }}" /></div></center>
           {% endif %}
+          <h2 class="benefit-title">{{ benefit.title }}</h2>
           <div class="benefit-content">{{ benefit.description }}</div>
         </div>
       </div>
