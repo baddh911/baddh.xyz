@@ -6,4 +6,4 @@ weight: 5
 layout: service
 ---
 
-Zapewniamy wysoką dostępność Twojej aplikacji. Robimy to wykorzystując sprawdzone technologie.
+Zapewniamy wysoką dostępność Twojej aplikacji. Robimy to, wykorzystując sprawdzone technologie.

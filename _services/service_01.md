@@ -1,5 +1,5 @@
 ---
-title: "Zarządzanie infastrukturą"
+title: "Zarządzanie infrastrukturą"
 date: 2021-03-20T00:00:00+00:00
 featured: true
 weight: 1

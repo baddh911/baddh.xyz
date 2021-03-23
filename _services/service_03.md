@@ -6,4 +6,4 @@ weight: 3
 layout: service
 ---
 
-Twórz i dostarczaj wydajniejsze aplikacje internetowe skracając czas wczytywania strony.
+Twórz i dostarczaj wydajniejsze aplikacje internetowe, skracając czas wczytywania strony.
