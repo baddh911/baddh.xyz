@@ -64,3 +64,16 @@
     }
   }
 }
+
+#flag {
+  width: 120px;
+  height: 45px;
+}
+
+img.pl {
+  display: flex;
+  align-items: center;
+  margin-left: .5rem;
+  opacity: 0;
+  transition: opacity 1s;
+}
