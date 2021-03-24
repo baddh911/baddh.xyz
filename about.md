@@ -8,7 +8,7 @@ bodyClass: page-about
 
 Powstaliśmy w odpowiedzi na potrzeby naszych obecnych oraz przyszłych partnerów. **Świadczymy usługę utrzymania infrastruktury i środowisk produkcyjnych.**
 
-Naszą misją jest dostarczanie zaprojektowanych przez Nas środowisk, które będą dostępne dla jak największej liczby firm.
+Naszą misją jest dostarczanie zaprojektowanych przez nas środowisk, które będą dostępne dla jak największej liczby firm.
 
 Posiadamy dla Ciebie najnowocześniejszą infrastrukturę, która daje Ci przewagę, dzięki której możesz skupić się na swojej działalności.
 
@@ -28,7 +28,7 @@ Wykorzystaj przyspieszenie i łatwe skalowanie rozwiązania infrastrukturalnego 
 
 Zadbaj o prostotę zarządzania środowiskiem i nie zostawaj w tyle za konkurencją!
 
-Jeśli masz jakiekolwiek pytania połączymy Cię z Naszym ekspertem, który zaproponuje idealne rozwiązanie przygotowane specjalnie dla Ciebie.
+Jeśli masz jakiekolwiek pytania, połączymy Cię z naszym ekspertem, który zaproponuje idealne rozwiązanie przygotowane specjalnie dla Ciebie.
 
 <div class="row justify-content-start">
   {% if site.homepage.show_call_box %}
