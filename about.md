@@ -8,9 +8,9 @@ bodyClass: page-about
 
 Powstaliśmy w odpowiedzi na potrzeby naszych obecnych oraz przyszłych partnerów. **Świadczymy usługę utrzymania infrastruktury i środowisk produkcyjnych.**
 
-Naszą misją jest dostarczanie zaprojektowanych przez nas środowisk, które będą dostępne dla jak największej liczby firm.
-
 Posiadamy dla Ciebie najnowocześniejszą infrastrukturę, która daje Ci przewagę, dzięki której możesz skupić się na swojej działalności.
+
+Naszą misją jest dostarczanie zaprojektowanych przez nas środowisk, które będą dostępne dla jak największej liczby firm.
 
 <p align="center">
   <img class="about" src="/images/illustrations/quality.png">
