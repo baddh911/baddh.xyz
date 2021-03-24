@@ -1,10 +1,10 @@
 ---
-title: 'O Nas'
+title: 'Kim jesteśmy?'
 layout: page
 bodyClass: page-about
 ---
 
-## Escale ® czyli wyjątkowy poziom jakości
+# Escale ® czyli wyjątkowy poziom jakości
 
 Powstaliśmy w odpowiedzi na potrzeby naszych obecnych oraz przyszłych partnerów. **Świadczymy usługę utrzymania infrastruktury i środowisk produkcyjnych.**
 
@@ -16,7 +16,7 @@ Posiadamy dla Ciebie najnowocześniejszą infrastrukturę, która daje Ci przewa
   <img class="about" src="/images/illustrations/quality.png">
 </p>
 
-## Co zyskasz na współpracy?
+# Co zyskasz na współpracy?
 
 Zapewniamy **pełne wsparcie dla Twoich projektów**. Utrzymujemy platformę stworzoną specjalnie dla Ciebie i wszystkich Twoich klientów. Stosujemy tylko sprawdzone i w pełni przetestowane rozwiązania.
 
