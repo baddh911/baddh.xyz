@@ -1,5 +1,5 @@
 ---
-title: 'Kim jesteśmy?'
+title: "Escale | Kim jesteśmy?"
 layout: page
 bodyClass: page-about
 ---
@@ -23,3 +23,5 @@ Zapewniamy **pełne wsparcie dla Twoich projektów**. Utrzymujemy platformę stw
 Dzięki Nam zaczniesz łatwo i niezawodnie hostować witrynę internetową dla swojej firmy, organizacji lub projektu, zachowując jednocześnie pełną kontrolę nad podstawową infrastrukturą aplikacji.
 
 Wykorzystaj przyspieszenie i łatwe skalowanie rozwiązania infrastrukturalnego o małych opóźnieniach, bez względu na to, gdzie Ty lub Twoi klienci jesteście!
+
+#

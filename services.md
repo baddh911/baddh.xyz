@@ -1,5 +1,5 @@
 ---
-title: Usługi
+title: "Escale | Usługi"
 layout: services
 intro_image: "images/illustrations/datacenter_2.png"
 intro_image_absolute: true

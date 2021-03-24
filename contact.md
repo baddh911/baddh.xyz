@@ -1,5 +1,5 @@
 ---
-title: Kontakt
+title: "Escale | Kontakt"
 layout: contact
 bodyClass: page-contact
 ---
