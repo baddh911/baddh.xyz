@@ -1,7 +1,7 @@
 ---
 title: "Escale | Usługi"
 layout: services
-intro_image: "images/illustrations/datacenter_2.png"
+intro_image: "images/illustrations/img_02.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
