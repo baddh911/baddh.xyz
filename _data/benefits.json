@@ -1,17 +1,17 @@
 [
   {
-    "title": "Infrastruktura",
-    "description": "Zapewniamy niskie opóźnienia, bezpieczeństwo i niezawodność.",
+    "title": "Niezawodność",
+    "description": "Gwarantujemy świetną wydajność, niskie opóźnienia, bezpieczeństwo oraz nagradzaną niezawodność.",
     "image": "images/benefits/star.svg"
   },
   {
-    "title": "Rabaty i stałe ceny",
-    "description": "Wiesz, ile będziesz płacić dzięki stałym i przejrzystym cenom.",
+    "title": "Wsparcie",
+    "description": "Zapewniamy poziom wsparcia Twoich projektów, jakiego nie otrzymałeś od poprzedniego dostawcy.",
     "image": "images/benefits/star.svg"
   },
   {
-    "title": "Nagradzane wsparcie",
-    "description": "Zapewniamy pełne wsparcie dla Twojego biznesu i projektów.",
+    "title": "Prostota",
+    "description": "Wyeliminuj dodatkową złożoność w miarę wzrostu zapotrzebowania na bardziej skalowalną infrastrukturę.",
     "image": "images/benefits/star.svg"
   }
 ]
