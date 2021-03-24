@@ -2,16 +2,16 @@
   {
     "title": "Wspieramy biznes",
     "description": "Bezpłatna całodobowa pomoc techniczna dla wszystkich klientów, z dodatkowymi korzyściami wsparcia premium.",
-    "image": "images/features/noun_branding_1885335.svg"
+    "image": "images/features/noun_support.png"
   },
   {
     "title": "Niezawodna platforma",
     "description": "Korzystamy z usług wielu dostawców oraz zaprojektowanej od podstaw architektury, aby zapewnić maksymalną niezawodność.",
-    "image": "images/features/noun_3d modeling_1885342.svg"
+    "image": "images/features/noun_reliable.png"
   },
   {
     "title": "Bezpieczeństwo",
     "description": "Dostarczamy bezpieczne środowiska zgodne z obecnymi standardami branżowymi, aby chronić Twoje dane.",
-    "image": "images/features/noun_The Process_1885341.svg"
+    "image": "images/features/noun_security.png"
   }
 ]
