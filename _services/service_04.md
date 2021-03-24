@@ -6,4 +6,4 @@ weight: 4
 layout: service
 ---
 
-Pomożemy zmigrować Twoje projekty do Naszej nowoczesnej infrastruktury.
+Pomożemy w pełni zmigrować Twoje projekty do Naszej nowoczesnej infrastruktury.
