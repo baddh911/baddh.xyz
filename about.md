@@ -6,7 +6,7 @@ bodyClass: page-about
 
 # Escale ® czyli wyjątkowy poziom jakości
 
-Powstaliśmy w odpowiedzi na potrzeby naszych obecnych oraz przyszłych partnerów. **Świadczymy usługę utrzymania infrastruktury i środowisk produkcyjnych.**
+Powstaliśmy w odpowiedzi na potrzeby naszych obecnych oraz przyszłych partnerów. **Świadczymy usługę utrzymania systemów i środowisk produkcyjnych.**
 
 Posiadamy dla Ciebie najnowocześniejszą infrastrukturę, która daje Ci przewagę, dzięki której możesz skupić się na swojej działalności.
 
@@ -18,7 +18,7 @@ Naszą misją jest dostarczanie zaprojektowanych przez nas środowisk, które b�
 
 # Co zyskasz na współpracy?
 
-Zapewniamy **pełne wsparcie dla Twoich projektów**. Utrzymujemy platformę stworzoną specjalnie dla Ciebie i wszystkich Twoich klientów. Stosujemy tylko sprawdzone i w pełni przetestowane rozwiązania.
+Zapewniamy **pełne wsparcie dla Twoich projektów** oraz **wyjątkowo indywidualne i partnerskie podejście**. Utrzymujemy platformę stworzoną specjalnie dla Ciebie i wszystkich Twoich klientów. Stosujemy tylko sprawdzone i w pełni przetestowane rozwiązania.
 
 Dzięki Nam zaczniesz łatwo i niezawodnie hostować witrynę internetową dla swojej firmy, organizacji lub projektu, zachowując jednocześnie pełną kontrolę nad podstawową infrastrukturą aplikacji.
 
