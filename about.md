@@ -18,7 +18,7 @@ Posiadamy dla Ciebie najnowocześniejszą infrastrukturę, która daje Ci przewa
 
 ## Co zyskasz na współpracy?
 
-Zapewniamy **pełne wsparcie dla Twoich projektów**. Stosujemy tylko sprawdzone i w pełni przetestowane rozwiązania.
+Zapewniamy **pełne wsparcie dla Twoich projektów**. Utrzymujemy platformę stworzoną specjalnie dla Ciebie i wszystkich Twoich klientów. Stosujemy tylko sprawdzone i w pełni przetestowane rozwiązania.
 
 Dzięki Nam zaczniesz łatwo i niezawodnie hostować witrynę internetową dla swojej firmy, organizacji lub projektu, zachowując jednocześnie pełną kontrolę nad podstawową infrastrukturą aplikacji.
 
