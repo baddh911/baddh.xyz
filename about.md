@@ -24,6 +24,10 @@ Dzięki Nam zaczniesz łatwo i niezawodnie hostować witrynę internetową dla s
 
 Wykorzystaj przyspieszenie i łatwe skalowanie rozwiązania infrastrukturalnego o małych opóźnieniach, bez względu na to, gdzie Ty lub Twoi klienci jesteście!
 
+<p align="center">
+  <img class="about" src="/images/illustrations/heart.png">
+</p>
+
 # Czekamy na Ciebie!
 
 Zadbaj o prostotę zarządzania środowiskiem i nie zostawaj w tyle za konkurencją!
