@@ -1,7 +1,7 @@
 ---
 title: "Escale | Administration made easy"
 layout: home
-intro_image: "images/illustrations/img_01.svg"
+intro_image: "images/illustrations/maintenance.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
