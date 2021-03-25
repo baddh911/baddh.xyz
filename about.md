@@ -10,7 +10,7 @@ Powstaliśmy w odpowiedzi na potrzeby naszych obecnych oraz przyszłych partner�
 
 Posiadamy dla Ciebie najnowocześniejszą infrastrukturę, która daje Ci przewagę, dzięki której możesz skupić się na swojej działalności.
 
-Naszą misją jest dostarczanie niezwykle wydajnych i profesjonalnie zabezpieczonych środowisk, które będą dostępne dla wyjątkowej grupy klientów biznesowych.
+Naszą misją jest dostarczanie niezwykle wydajnych i profesjonalnie zabezpieczonych środowisk, które są dostępne dla wyjątkowej grupy klientów.
 
 <p align="center">
   <img class="about" src="/images/illustrations/quality.png">
