@@ -68,71 +68,74 @@ bodyClass: page-home
 <div class="strip">
 
   <style type="text/css">
-  .tg  {border-collapse:collapse;border-spacing:0;}
-  .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-    overflow:hidden;padding:10px 5px;word-break:normal;}
-  .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-    font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-  .tg .tg-t3lw{background-color:#fd6864;font-size:16px;text-align:left;vertical-align:top}
-  .tg .tg-43qd{background-color:#ffffff;font-size:16px;font-weight:bold;text-align:center;vertical-align:top}
-  .tg .tg-x5q1{font-size:16px;text-align:left;vertical-align:top}
-  .tg .tg-tl3h{background-color:#c0c0c0;font-size:16px;text-align:center;vertical-align:top}
-  .tg .tg-e1cp{background-color:#fd6864;font-size:16px;font-weight:bold;text-align:center;vertical-align:top}
-  .tg .tg-o5ha{background-color:#ffffff;font-size:16px;text-align:left;vertical-align:top}
+    table.greyGridTable {
+      border: 2px solid #FFFFFF;
+      width: 100%;
+      height: 150px;
+      text-align: center;
+      border-collapse: collapse;
+    }
+    table.greyGridTable td, table.greyGridTable th {
+      border: 1px solid #FFFFFF;
+      padding: 3px 4px;
+    }
+    table.greyGridTable tbody td {
+      font-size: 18px;
+      color: #333333;
+    }
+    table.greyGridTable td:nth-child(even) {
+      background: #FBD6D6;
+    }
+    table.greyGridTable thead {
+      background: #FFFFFF;
+      border-bottom: 4px solid #333333;
+    }
+    table.greyGridTable thead th {
+      font-size: 20px;
+      font-weight: bold;
+      color: #333333;
+      text-align: center;
+      border-left: 2px solid #333333;
+    }
+    table.greyGridTable thead th:first-child {
+      border-left: none;
+    }
+
+    table.greyGridTable tfoot td {
+      font-size: 14px;
+    }
   </style>
-  <table class="tg">
+
+  <table class="greyGridTable">
   <thead>
-    <tr>
-      <th class="tg-x5q1"></th>
-      <th class="tg-tl3h">Utrzymanie infrastruktury</th>
-      <th class="tg-tl3h">Zespół administratorów</th>
-    </tr>
+  <tr>
+  <th></th>
+  <th>Escale</th>
+  <th>Zewnętrzny<br>dostawca</th>
+  </tr>
   </thead>
   <tbody>
-    <tr>
-      <td class="tg-t3lw">Escale</td>
-      <td class="tg-e1cp">0k</td>
-      <td class="tg-e1cp">0k</td>
-    </tr>
-    <tr>
-      <td class="tg-o5ha">Zewnętrzny<br>dostawca</td>
-      <td class="tg-43qd">15k</td>
-      <td class="tg-43qd">12k</td>
-    </tr>
+  <tr>
+  <td>Utrzymanie infrastruktury</td>
+  <td><b>0zł</b></td>
+  <td>15.000 zł</td>
+  </tr>
+  <tr>
+  <td>Zespół administratorów</td>
+  <td><b>0zł</b></td>
+  <td>12.000 zł</td>
+  </tr>
+  <tr>
+  <td>Dodatkowe koszty</td>
+  <td><b>0zł</b></td>
+  <td>2.500zł</td>
+  </tr>
+  <tr>
+  <td>Razem</td>
+  <td><b>0zł</b></td>
+  <td>29.500zł</td>
+  </tr>
   </tbody>
   </table>
 
-
-  <div class="container pt-6 pb-6 pb-md-10">
-    <div class="row justify-content-start">
-
-      <div class="col-12 col-md-4 mb-1">
-        <div class="service service-summary">
-          <div class="service-content">
-            <h2 class="service-title">
-              <p class="title">Escale</p>
-            </h2>
-            <p class="service-content">
-              Utrzymanie infrastruktury: <b>4k</b><br>
-              Zespół administratorów: <b>5k</b>
-            </p>
-          </div>
-        </div>
-      </div>
-      <div class="col-12 col-md-4 mb-1">
-        <div class="service service-summary">
-          <div class="service-content">
-            <h2 class="service-title">
-              <p class="title">Zewnętrzny dostawca</p>
-            </h2>
-            <p class="service-content">
-              Utrzymanie infrastruktury: <b>15k</b><br>
-              Zespół administratorów: <b>12k</b>
-            </p>
-          </div>
-        </div>
-      </div>
-
-    </div>
-  </div>
 </div>
