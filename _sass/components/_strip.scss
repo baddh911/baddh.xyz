@@ -1,14 +1,16 @@
 .strip {
   /* background: #323539; */
-  background: #182931;
+  /* background: #182931; */
+  background: rgb(2,0,36);
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(24,41,49,1) 47%, rgba(81,124,157,0.9542191876750701) 100%);
   background-repeat: no-repeat;
 }
 .strip-white {
-  background-color: white;
+  background: white;
 }
 
 .strip-grey {
-  background-color: white;
+  background: white;
 }
 
 .strip-diagonal {
