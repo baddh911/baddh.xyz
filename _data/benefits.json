@@ -2,16 +2,16 @@
   {
     "title": "Niezawodność",
     "description": "Gwarantujemy świetną wydajność, niskie opóźnienia, bezpieczeństwo oraz nagradzaną niezawodność.",
-    "image": "images/benefits/star.svg"
+    "image": "images/benefits/energy.svg"
   },
   {
     "title": "Wsparcie",
     "description": "Zapewniamy poziom wsparcia, jakiego nie otrzymałeś od poprzedniego dostawcy.",
-    "image": "images/benefits/star.svg"
+    "image": "images/benefits/24-hours.svg"
   },
   {
     "title": "Prostota",
     "description": "Dzięki nam wyeliminujesz złożoność w miarę wzrostu zapotrzebowania na bardziej skalowalną infrastrukturę.",
-    "image": "images/benefits/star.svg"
+    "image": "images/benefits/leaf.svg"
   }
 ]
